@@ -1,4 +1,4 @@
-(module HSINDA_953_1C_1 (layer F.Cu) (tedit 55BCB855)
+(module Relay_HSINDA_953_1C_1 (layer F.Cu) (tedit 55BCB855)
   (fp_text reference SW** (at 2.6 4.2) (layer F.SilkS)
     (effects (font (thickness 0.254)))
   )
