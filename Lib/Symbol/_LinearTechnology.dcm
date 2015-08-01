@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC1660CN
+D Octal 10bit DAC, SPI
+K DAC, 10bit, Octal, 8ch, SPI
+F http://www.linear-tech.co.jp/product/LTC1660
+$ENDCMP
+#
+#End Doc Library
