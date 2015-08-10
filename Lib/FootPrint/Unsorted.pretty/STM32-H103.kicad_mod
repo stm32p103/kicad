@@ -1,5 +1,5 @@
-(module STM32-H103 (layer F.Cu) (tedit 55BA4723)
-  (fp_text reference M** (at 2.54 -1.27) (layer F.SilkS)
+(module STM32-H103 (layer F.Cu) (tedit 55C86984)
+  (fp_text reference REF** (at 2.54 -1.27) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value STM32-H103 (at 5.08 -33.02) (layer F.Fab)
