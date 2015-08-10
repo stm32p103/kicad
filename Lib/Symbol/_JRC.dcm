@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NJU3711x
+D 8ch Serial-to-Parallel converter
+F http://www.njr.co.jp/products/semicon/PDF/NJU3711_J.pdf
+$ENDCMP
+#
+#End Doc Library

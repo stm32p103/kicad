@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TC6381AF
+D 16bit x 1, 8bit x 6, I/O Expander
+K I/O Expander, Latch
+$ENDCMP
+#
+$CMP TD6208x
+D 8ch NPN Transistor Array
+K NPN,Transistor Array,8ch,Sink Driver
+F http://toshiba.semicon-storage.com/info/lookup.jsp?pid=TD62083AFNG
+$ENDCMP
+#
+#End Doc Library
