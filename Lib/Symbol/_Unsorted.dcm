@@ -1,3 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Generic_CMC
+D Common Mode Choke Coil
+$ENDCMP
+#
+$CMP MCP2551
+D High-Speed CAN Transceiver
+K CAN, Transceiver
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21667f.pdf
+$ENDCMP
+#
 #End Doc Library
