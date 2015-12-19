@@ -1,4 +1,5 @@
 (module ACT45B (layer F.Cu) (tedit 55DDDE66)
+  (tags "ACT45B, CMC")
   (fp_text reference REF** (at -0.15 3.062) (layer F.SilkS)
     (effects (font (thickness 0.254)))
   )
