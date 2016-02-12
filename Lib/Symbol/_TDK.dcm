@@ -1,0 +1,25 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACT45B
+D CAN-Bus, Common Mode Choke Coil, ACT45B
+K CAN, CMC
+F http://product.tdk.com/ja/catalog/datasheets/j9711_act.pdf
+$ENDCMP
+#
+$CMP ACT45R
+D FlexRay, Common Mode Choke Coil, ACT45R
+K FlexRay, CMC
+F http://product.tdk.com/ja/catalog/datasheets/j9711_act.pdf
+$ENDCMP
+#
+$CMP Generic_CMC
+D Common Mode Choke Coil
+$ENDCMP
+#
+$CMP ZJYS51
+D Common Mode Choke Coil
+K CMC
+F http://product.tdk.com/ja/catalog/datasheets/j971_zjys.pdf
+$ENDCMP
+#
+#End Doc Library
